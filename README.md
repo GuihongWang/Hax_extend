@@ -4,7 +4,7 @@ Hax免费VPS自动续期 +保活 修改版
 # 用法
 - 1.Star本项目
 - 2.Fork本项目 启用Action
-- 3.新建secrets变量 进入设置 找到 secrets 
+- 3.新建secrets变量 进入设置 找到 secrets 进入 actions
 -  设置一个un  （账户ID）   和 pwd （密码） 然后点一下小星星
 - 无（这行可手动删除来激活续期）
 
