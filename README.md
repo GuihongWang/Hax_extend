@@ -8,6 +8,11 @@ Hax免费VPS自动续期 +保活 修改版
 -  设置一个un  （账户ID）   和 pwd （密码） 然后点一下小星星
 - 无（这行可手动删除来激活续期）
 
+# 关于保活
+- 进入Action页 找到 KeepActionAlive
+- 点击 run workflow 然后再点绿色的 run workflow 
+- 等待并查看是不是绿色小勾勾
+
 # 通知
 - 使用USERNAME中的TG账号提前私聊 @Hax_Renew_Helper_Bot 可获得续期成功通知
 
