@@ -1,12 +1,12 @@
 # Hax_extend
-Hax免费VPS自动续期
+Hax免费VPS自动续期 +保活 修改版
 
 # 用法
 - 1.Star本项目
 - 2.Fork本项目 启用Action
 - 3.新建secrets变量 进入设置 找到 secrets 
 -  设置一个un  （账户ID）   和 pwd （密码） 然后点一下小星星
-- ## 最好Clone下来新建一个私有仓库，否则你的密码暴露在GitHub很危险!
+- 无（这行可手动删除来激活续期）
 
 # 通知
 - 使用USERNAME中的TG账号提前私聊 @Hax_Renew_Helper_Bot 可获得续期成功通知
